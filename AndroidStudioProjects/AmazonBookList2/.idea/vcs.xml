@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$USER_HOME$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/edu/fvtc/amazonbooklist2" vcs="Git" />
   </component>
 </project>
